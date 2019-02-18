@@ -22,7 +22,7 @@
 				<label for=team>Select Team</label>
 				<select name=team id=team>
 				<?php
-					$sql = "SELECT * FROM teams";
+					$sql = "SELECT team_number FROM inspections".($_SESSION['is_admin'] == "1" ? "" : " WHERE assigned_inspector = $_SESSION[user_id]");
 					$res = mysqli_query($conn, $sql);
 					while($row = mysqli_fetch_assoc($res)){
 						echo("<option value=$row[team_number]>$row[team_number]</option>");
