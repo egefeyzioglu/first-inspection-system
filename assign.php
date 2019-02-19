@@ -53,9 +53,17 @@
 					$teams[$row['team_number']] = $row;
 				}
 				
-				foreach($teams as $team){
-					$sql = "UPDATE inspections SET assigned_inspector=".$_POST[$team['team_number']]." WHERE team_number=".$team['team_number'];
-					mysqli_query($conn, $sql);
+				if(isset($_POST['save'])){
+					foreach($teams as $team){
+						$sql = "UPDATE inspections SET assigned_inspector=".$_POST[$team['team_number']]." WHERE team_number=".$team['team_number'];
+						mysqli_query($conn, $sql);
+					}
+				}
+				
+				$sql = "SELECT * FROM teams, inspections WHERE teams.team_number = inspections.team_number";
+				$res = mysqli_query($conn, $sql) or die(mysqli_error($conn)."<br/>\n$sql");
+				while($row = mysqli_fetch_assoc($res)){
+					$teams[$row['team_number']] = $row;
 				}
 				
 				foreach($teams as $team){
@@ -66,7 +74,7 @@
 					echo("\t\t\t</tr>\n");
 				}
 ?>
-		<tr><td><input colspan=5 type=Submit></td></tr>
+		<tr><td><input colspan=5 type=Submit name=save></td></tr>
 		</table>
 		</form>
 		<form action=# method=POST><input type=submit name=logoff value="Log Out"></form>
