@@ -3,11 +3,17 @@
 	if(isset($_POST['logoff'])){
 		$_SESSION['user_id'] = null;
 		session_destroy();
+		header("Location: index.php");
+		die();
 	}
 	if(!isset($_SESSION['user_id'])){
 		header("Location: /login.php");
+		die();
 	}
-	
+	if(!$_SESSION['is_admin']){
+		header("Location: index.php");
+		die();
+	}
 	include("db_conn.php");
 ?>
 <html>
