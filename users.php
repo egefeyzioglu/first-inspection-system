@@ -30,6 +30,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
 	</head>
 	<body>
+		<a href="/">Home</a>
 		<table>
 			<h2>Manage Users</h2>
 			<tr><th>ID</th><th>First Name</th><th>Last Name</th><th>Username</th><th>Team Affiliation</th><th>Is Admin</th></tr>

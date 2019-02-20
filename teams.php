@@ -54,6 +54,7 @@
 		<title>FRC Inspection System</title>
 	</head>
 	<body>
+		<a href="/">Home</a>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
 		<table>
 			<tr><th>Team Number</th><th>Team Name</th><th>Team Captain</th><th>Team Mentour</th></tr>

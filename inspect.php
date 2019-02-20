@@ -114,6 +114,7 @@
 	</script>
 </head>
 <body>
+		<a href="/">Home</a>
 	<?php
 		error_reporting(E_ERROR);
 		
