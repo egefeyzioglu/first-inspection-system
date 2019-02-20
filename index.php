@@ -34,7 +34,8 @@
 <?php
 			if($_SESSION['is_admin']) echo("
 			<h1>Lead Robot Inspector / Inspection Manager</h1>
-			<a href=assign.php>Assign Inspectors</a>
+			<a href=assign.php>Assign Inspectors</a><br/>
+			<a href=teams.php>Manage Teams</a>
 		</p>"); ?>
 		<form action=# method=POST><input type=submit name=logoff value="Log Out"></form>
 	</body>
