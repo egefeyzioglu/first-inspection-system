@@ -84,19 +84,19 @@
 				
 				captainSignaturePad = new SignaturePad($('#captain_signature_pad')[0]);
 				captainSignaturePad.onEnd = function(){$('#captain_signature_input').val(captainSignaturePad.toDataURL());}
-				mentourSignaturePad.fromDataURL("<?php echo($captain_url); ?>");
+				captainSignaturePad.fromDataURL("<?php echo($captain_url); ?>");
 				
 				initialInspectionSignaturePad = new SignaturePad($('#initial_inspection_signature_pad')[0]);
 				initialInspectionSignaturePad.onEnd = function(){$('#initial_inspection_signature_input').val(initialInspectionSignaturePad.toDataURL());}
-				mentourSignaturePad.fromDataURL("<?php echo($initial_inspection_url); ?>");
+				initialInspectionSignaturePad.fromDataURL("<?php echo($initial_inspection_url); ?>");
 				
 				reinspectionSignaturePad = new SignaturePad($('#reinspection_signature_pad')[0]);
 				reinspectionSignaturePad.onEnd = function(){$('#reinspection_signature_input').val(reinspectionSignaturePad.toDataURL());}
-				mentourSignaturePad.fromDataURL("<?php echo($reinspection_url); ?>");
+				reinspectionSignaturePad.fromDataURL("<?php echo($reinspection_url); ?>");
 				
 				finalInspectionSignaturePad = new SignaturePad($('#final_inspection_signature_pad')[0]);
 				finalInspectionSignaturePad.onEnd = function(){$('#final_inspection_signature_input').val(finalInspectionSignaturePad.toDataURL());}
-				mentourSignaturePad.fromDataURL("<?php echo($final_inspection_url); ?>");
+				finalInspectionSignaturePad.fromDataURL("<?php echo($final_inspection_url); ?>");
 		});
 		
 		function toggleChecked(id){
