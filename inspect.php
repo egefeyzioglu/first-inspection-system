@@ -171,99 +171,92 @@
 					'rule_no' => "standard_bumpers_rule_no",
 					'data_entry_field_ids' => array(),
 					'data_entry_field_titles' => array()
-					array(
-						array(
-							'id' => "standard_bumpers_a",
-							'title' => "standard_bumpers_a_title",
-							'explanation' => "standard_bumpers_a_explanation",
-							'rule_no' => "standard_bumpers_a_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_b",
-							'title' => "standard_bumpers_b_title",
-							'explanation' => "standard_bumpers_b_explanation",
-							'rule_no' => "standard_bumpers_b_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_c",
-							'title' => "standard_bumpers_c_title",
-							'explanation' => "standard_bumpers_c_explanation",
-							'rule_no' => "standard_bumpers_c_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_d",
-							'title' => "standard_bumpers_d_title",
-							'explanation' => "standard_bumpers_d_explanation",
-							'rule_no' => "standard_bumpers_d_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_e",
-							'title' => "standard_bumpers_e_title",
-							'explanation' => "standard_bumpers_e_explanation",
-							'rule_no' => "standard_bumpers_e_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_f",
-							'title' => "standard_bumpers_f_title",
-							'explanation' => "standard_bumpers_f_explanation",
-							'rule_no' => "standard_bumpers_f_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_g",
-							'title' => "standard_bumpers_g_title",
-							'explanation' => "standard_bumpers_g_explanation",
-							'rule_no' => "standard_bumpers_g_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_h",
-							'title' => "standard_bumpers_h_title",
-							'explanation' => "standard_bumpers_h_explanation",
-							'rule_no' => "standard_bumpers_h_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_i",
-							'title' => "standard_bumpers_i_title",
-							'explanation' => "standard_bumpers_i_explanation",
-							'rule_no' => "standard_bumpers_i_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_j",
-							'title' => "standard_bumpers_j_title",
-							'explanation' => "standard_bumpers_j_explanation",
-							'rule_no' => "standard_bumpers_j_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_k",
-							'title' => "standard_bumpers_k_title",
-							'explanation' => "standard_bumpers_k_explanation",
-							'rule_no' => "standard_bumpers_k_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "standard_bumpers_l",
-							'title' => "standard_bumpers_l_title",
-							'explanation' => "standard_bumpers_l_explanation",
-							'rule_no' => "standard_bumpers_l_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),
-
-					
-					)
-				),
-				
-		
-			)
+				),array(
+					'id' => "standard_bumpers_a",
+					'title' => "standard_bumpers_a_title",
+					'explanation' => "standard_bumpers_a_explanation",
+					'rule_no' => "standard_bumpers_a_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_b",
+					'title' => "standard_bumpers_b_title",
+					'explanation' => "standard_bumpers_b_explanation",
+					'rule_no' => "standard_bumpers_b_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_c",
+					'title' => "standard_bumpers_c_title",
+					'explanation' => "standard_bumpers_c_explanation",
+					'rule_no' => "standard_bumpers_c_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_d",
+					'title' => "standard_bumpers_d_title",
+					'explanation' => "standard_bumpers_d_explanation",
+					'rule_no' => "standard_bumpers_d_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_e",
+					'title' => "standard_bumpers_e_title",
+					'explanation' => "standard_bumpers_e_explanation",
+					'rule_no' => "standard_bumpers_e_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_f",
+					'title' => "standard_bumpers_f_title",
+					'explanation' => "standard_bumpers_f_explanation",
+					'rule_no' => "standard_bumpers_f_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_g",
+					'title' => "standard_bumpers_g_title",
+					'explanation' => "standard_bumpers_g_explanation",
+					'rule_no' => "standard_bumpers_g_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_h",
+					'title' => "standard_bumpers_h_title",
+					'explanation' => "standard_bumpers_h_explanation",
+					'rule_no' => "standard_bumpers_h_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_i",
+					'title' => "standard_bumpers_i_title",
+					'explanation' => "standard_bumpers_i_explanation",
+					'rule_no' => "standard_bumpers_i_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_j",
+					'title' => "standard_bumpers_j_title",
+					'explanation' => "standard_bumpers_j_explanation",
+					'rule_no' => "standard_bumpers_j_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_k",
+					'title' => "standard_bumpers_k_title",
+					'explanation' => "standard_bumpers_k_explanation",
+					'rule_no' => "standard_bumpers_k_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "standard_bumpers_l",
+					'title' => "standard_bumpers_l_title",
+					'explanation' => "standard_bumpers_l_explanation",
+					'rule_no' => "standard_bumpers_l_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				)
+			),
 			'mechanical_title' => array(
 				array(
 					'id' => "bom_cost",
@@ -381,7 +374,7 @@
 					'explanation' => "can_bus_explanation",
 					'rule_no' => "can_bus_rule_no",
 					'data_entry_field_ids' => array(),
-					'data_entry_field_titles' => array
+					'data_entry_field_titles' => array()
 				),array(
 					'id' => "robo_rio",
 					'title' => "robo_rio_title",
@@ -396,115 +389,113 @@
 					'rule_no' => "wire_breaker_size_rule_no",
 					'data_entry_field_ids' => array(),
 					'data_entry_field_titles' => array()
-					array(
-						array(
-							'id' => "wire_size_a",
-							'title' => "wire_size_a_title",
-							'explanation' => "wire_size_a_explanation",
-							'rule_no' => "wire_size_a_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "wire_size_b",
-							'title' => "wire_size_b_title",
-							'explanation' => "wire_size_b_explanation",
-							'rule_no' => "wire_size_b_rule_no",
-							'data_entry_field_ids' => array(),
-		        				'data_entry_field_titles' => array()
-						),array(
-							'id' => "wire_size_c",
-							'title' => "wire_size_c_title",
-							'explanation' => "wire_size_c_explanation",
-							'rule_no' => "wire_size_c_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),array(
-							'id' => "wire_size_d",
-							'title' => "wire_size_d_title",
-							'explanation' => "wire_size_d_explanation",
-							'rule_no' => "wire_size_d_rule_no",
-							'data_entry_field_ids' => array(),
-							'data_entry_field_titles' => array()
-						),
-					)
-					),array(
-						'id' => "wire_colors",
-						'title' => "wire_colors_title",
-						'explanation' => "wire_colors_explanation",
-						'rule_no' => "wire_colors_rule_no",
-						'data_entry_field_ids' => array(),
-						'data_entry_field_titles' => array(),
-					),array(
-						'id' => "copper_wire",
-						'title' => "copper_wire_title",
-						'explanation' => "copper_wire_explanation",
-						'rule_no' => "copper_wire_rule_no",
-						'data_entry_field_ids' => array(),
+				),array(
+					'id' => "wire_size_a",
+					'title' => "wire_size_a_title",
+					'explanation' => "wire_size_a_explanation",
+					'rule_no' => "wire_size_a_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "wire_size_b",
+					'title' => "wire_size_b_title",
+					'explanation' => "wire_size_b_explanation",
+					'rule_no' => "wire_size_b_rule_no",
+					'data_entry_field_ids' => array(),
 						'data_entry_field_titles' => array()
-					),array(
-						'id' => "wire_wago",
-						'title' => "wire_wago_title",
-						'explanation' => "wire_wago_explanation",
-						'rule_no' => "wire_wago_rule_no",
-						'data_entry_field_ids' => array(),
-						'data_entry_field_titles' => array()
-					),array(
-						'id' => "motors",
-						'title' => "motors_title",
-						'explanation' => "motors_explanation",
-						'rule_no' => "motors_rule_no",
-						'data_entry_field_ids' => array(),
-						'data_entry_field_titles' => array()
-					),array(
-						'id' => "actuators",
-						'title' => "actuators_title",
-						'explanation' => "actuators_explanation",
-						'rule_no' => "actuators_rule_no",
-						'data_entry_field_ids' => array(),
-						'data_entry_field_titles' => array()
-					),array(
-						'id' => "actuator_power",
-						'title' => "actuator_power_title",
-						'explanation' => "actuator_power_explanation",
-						'rule_no' => "actuator_power_rule_no",
-						'data_entry_field_ids' => array(),
-						'data_entry_field_titles' => array()
-					),array(
-						'id' => "actuator_control",
-						'title' => "actuator_control_title",
-						'explanation' => "actuator_control_explanation",
-						'rule_no' => "actuator_control_rule_no",
-						'data_entry_field_ids' => array(),
-						'data_entry_field_titles' => array()
-					),array(
-						'id' => "additional_electronics",
-						'title' => "additional_electronics_title",
-						'explanation' => "additional_electronics_explanation",
-						'rule_no' => "additional_electronics_rule_no",
-						'data_entry_field_ids' => array(),
-						'data_entry_field_titles' => array()
-					),array(
-						'id' => "pcm",
-						'title' => "pcm_title",
-						'explanation' => "pcm_explanation",
-						'rule_no' => "pcm_rule_no",
-						'data_entry_field_ids' => array(),
-						'data_entry_field_titles' => array()
-					),array(
-						'id' => "spike_fuse",
-						'title' => "spike_fuse_title",
-						'explanation' => "spike_fuse_explanation",
-						'rule_no' => "spike_fuse_rule_no",
-						'data_entry_field_ids' => array(),
-						'data_entry_field_titles' => array()
-					),array(
-						'id' => "isolated_frame",
-						'title' => "isolated_frame_title",
-						'explanation' => "isolated_frame_explanation",
-						'rule_no' => "isolated_frame_rule_no",
-						'data_entry_field_ids' => array(),
-						'data_entry_field_titles' => array()
-					),
+				),array(
+					'id' => "wire_size_c",
+					'title' => "wire_size_c_title",
+					'explanation' => "wire_size_c_explanation",
+					'rule_no' => "wire_size_c_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "wire_size_d",
+					'title' => "wire_size_d_title",
+					'explanation' => "wire_size_d_explanation",
+					'rule_no' => "wire_size_d_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "wire_colors",
+					'title' => "wire_colors_title",
+					'explanation' => "wire_colors_explanation",
+					'rule_no' => "wire_colors_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array(),
+				),array(
+					'id' => "copper_wire",
+					'title' => "copper_wire_title",
+					'explanation' => "copper_wire_explanation",
+					'rule_no' => "copper_wire_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "wire_wago",
+					'title' => "wire_wago_title",
+					'explanation' => "wire_wago_explanation",
+					'rule_no' => "wire_wago_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "motors",
+					'title' => "motors_title",
+					'explanation' => "motors_explanation",
+					'rule_no' => "motors_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "actuators",
+					'title' => "actuators_title",
+					'explanation' => "actuators_explanation",
+					'rule_no' => "actuators_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "actuator_power",
+					'title' => "actuator_power_title",
+					'explanation' => "actuator_power_explanation",
+					'rule_no' => "actuator_power_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "actuator_control",
+					'title' => "actuator_control_title",
+					'explanation' => "actuator_control_explanation",
+					'rule_no' => "actuator_control_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "additional_electronics",
+					'title' => "additional_electronics_title",
+					'explanation' => "additional_electronics_explanation",
+					'rule_no' => "additional_electronics_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "pcm",
+					'title' => "pcm_title",
+					'explanation' => "pcm_explanation",
+					'rule_no' => "pcm_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "spike_fuse",
+					'title' => "spike_fuse_title",
+					'explanation' => "spike_fuse_explanation",
+					'rule_no' => "spike_fuse_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				),array(
+					'id' => "isolated_frame",
+					'title' => "isolated_frame_title",
+					'explanation' => "isolated_frame_explanation",
+					'rule_no' => "isolated_frame_rule_no",
+					'data_entry_field_ids' => array(),
+					'data_entry_field_titles' => array()
+				)
+			),
 			'pneumatic_system_title' => array(
 					array(
 						'id' => "modifications",
@@ -572,7 +563,7 @@
 						),
 						
 				),
-			'power_check_title' => array(
+				'power_check_title' => array(
 					array(
 						'id' => "wireless",
 						'title' => "wireless_title",
@@ -587,37 +578,34 @@
 						'rule_no' => "pneumatics_operation_rule_no",
 						'data_entry_field_ids' => array(),
 						'data_entry_field_titles' => array()
-						array(
-							array(
-								'id' => "compressor_automatic",
-								'title' => "compressor_automatic_title",
-								'explanation' => "compressor_automatic_explanation",
-								'rule_no' => "compressor_automatic_rule_no",
-								'data_entry_field_ids' => array(),
-								'data_entry_field_titles' => array()
-							),array(
-								'id' => "main_pressure",
-								'title' => "main_pressure_title",
-								'explanation' => "main_pressure_explanation",
-								'rule_no' => "main_pressure_rule_no",
-								'data_entry_field_ids' => array(),
-								'data_entry_field_titles' => array()
-							),array(
-								'id' => "relief_valve",
-								'title' => "relief_valve_title",
-								'explanation' => "relief_valve_explanation",
-								'rule_no' => "relief_valve_rule_no",
-								'data_entry_field_ids' => array(),
-								'data_entry_field_titles' => array()
-							),array(
-								'id' => "pressure_regulator",
-								'title' => "pressure_regulator_title",
-								'explanation' => "pressure_regulator_explanation",
-								'rule_no' => "pressure_regulator_rule_no",
-								'data_entry_field_ids' => array(),
-								'data_entry_field_titles' => array()
-							),					
-						),
+					),array(
+						'id' => "compressor_automatic",
+						'title' => "compressor_automatic_title",
+						'explanation' => "compressor_automatic_explanation",
+						'rule_no' => "compressor_automatic_rule_no",
+						'data_entry_field_ids' => array(),
+						'data_entry_field_titles' => array()
+					),array(
+						'id' => "main_pressure",
+						'title' => "main_pressure_title",
+						'explanation' => "main_pressure_explanation",
+						'rule_no' => "main_pressure_rule_no",
+						'data_entry_field_ids' => array(),
+						'data_entry_field_titles' => array()
+					),array(
+						'id' => "relief_valve",
+						'title' => "relief_valve_title",
+						'explanation' => "relief_valve_explanation",
+						'rule_no' => "relief_valve_rule_no",
+						'data_entry_field_ids' => array(),
+						'data_entry_field_titles' => array()
+					),array(
+						'id' => "pressure_regulator",
+						'title' => "pressure_regulator_title",
+						'explanation' => "pressure_regulator_explanation",
+						'rule_no' => "pressure_regulator_rule_no",
+						'data_entry_field_ids' => array(),
+						'data_entry_field_titles' => array()
 					),array(
 						'id' => "signal_light",
 						'title' => "signal_light_title",
@@ -653,13 +641,9 @@
 						'rule_no' => "driver_console_rule_no",
 						'data_entry_field_ids' => array(),
 						'data_entry_field_titles' => array()
-					),
-				       ),
-					
-					
-			),
-		)
-	);
+					)
+			)
+		);
 		
 		$strings = array(
 			'initial_inspection_title' => array('en' => "Initial Inspection"),
@@ -833,7 +817,7 @@ servos. Custom Circuits may not produce voltage exceeding 24V."),
 			'spike_fuse_explanation' => array('en' => "Spike must have 20 amp fuse installed. When used for compressor control only, the Spike fuse may be
 replaced with 20 amp, snap action, breaker (recommended)."),
 			'spike_fuse_rule_no' => array('en' => "R73.D"),
-			'isolated_frame_title' => array('en' => "Isolated Frame",
+			'isolated_frame_title' => array('en' => "Isolated Frame"),
 			'isolated_frame_explanation' => array('en' => "Frame must be electrically isolated from battery, RoboRio must be insulated from frame. (>3k Ohm
 between either PD battery post and chassis)"),
 			'isolated_frame_rule_no' => array('en' => "R49"),
@@ -865,7 +849,7 @@ between either PD battery post and chassis)"),
 			'valve_control_title' => array('en' => "Valve Control"),
 			'valve_control_explanation' => array('en' => "Valve Control"),
 			'valve_control_rule_no' => array('en' => "Valve Control"),
-			'power_check_title' => array('en' => 'Power On Check (Driver Station must be tethered to the Robot)')
+			'power_check_title' => array('en' => 'Power On Check (Driver Station must be tethered to the Robot)'),
 			'wireless_title' => array('en' => "Unauthorized Wireless Communication"),
 			'wireless_explanation' => array('en' => "no wireless communication to/from ROBOT or OPERATOR CONSOLE
 without prior FIRST written permission. No radios allowed on the OPERATOR CONSOLE or in the pit"),
