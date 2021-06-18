@@ -37,6 +37,8 @@
 	$sql = "SELECT * FROM teams, inspections WHERE inspections.team_number = teams.team_number";
 	$res = mysqli_query($conn, $sql);
 	
+	$teams = array();
+
 	while($row = mysqli_fetch_assoc($res)){
 		$teams[$row['team_number']] = $row;
 	}
