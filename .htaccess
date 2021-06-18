@@ -4,4 +4,7 @@ AuthType Basic
 AuthUserFile ./.htpasswd
 Require valid-user
 </Files>
- 
+
+<Files "./sample-database.sql">
+Require all denied
+</Files>
